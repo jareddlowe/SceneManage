@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704698116
+coin.gd::GDScript::-1::1704690889::0::1::::<>Area2D<>::
+coin.png::CompressedTexture2D::3556593992166426581::1704619762::1704628359::1::::<><>::
+coin.tscn::PackedScene::6121313321032687109::1704690906::0::1::::<><>::res://coin.gd<>uid://bqw3t3o8kbaw8::::res://coin.png
+icon.svg::CompressedTexture2D::3550790363629458253::1704619511::1704628359::1::::<><>::
+main.tscn::PackedScene::1457362530819685780::1704698265::0::1::::<><>::
+MainMenu.gd::GDScript::-1::1704698265::0::1::::<>PanelContainer<>::
+main_menu.tscn::PackedScene::399160563020487663::1704698273::0::1::::<><>::res://MainMenu.gd

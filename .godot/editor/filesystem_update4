@@ -1,0 +1,6 @@
+res://MainMenu.gd
+res://main.tscn
+res://level_one.tscn
+res://scene_manager.tscn
+res://scene_manager.gd
+res://main_menu.tscn
